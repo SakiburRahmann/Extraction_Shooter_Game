@@ -1,0 +1,40 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.VC.opendb
+
+# Build artifacts
+*.pdb
+*.ipdb
+*.iobj
+*.ipdb
+Target.cs.bak
+
+# Crash logs
+Crashes/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# DotNet build output for Build/Scripts automation tooling (regenerated locally)
+Build/Scripts/obj/
+Build/Scripts/bin/
+Build/Scripts/uatobj/
+
+# MCP scratch tooling artifacts (regenerated locally)
+Build/MCP/__pycache__/
+Build/MCP/export/
+
+# Local agent session state (machine-specific, never commit)
+.freebuff/
